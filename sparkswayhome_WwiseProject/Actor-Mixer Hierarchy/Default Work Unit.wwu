@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{A181CCC1-15D2-4115-A285-E307423ADF13}" SchemaVersion="119">
+	<AudioObjects>
+		<WorkUnit Name="Default Work Unit" ID="{A181CCC1-15D2-4115-A285-E307423ADF13}" PersistMode="Standalone">
+			<ChildrenList>
+				<ActorMixer Name="Non_World" ID="{8C2A0E80-A516-4527-8389-D77A8C2917D7}" ShortID="253281090">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{2654E8B0-CFFE-4E64-BA81-E8DBC9CF021F}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="SFX Bus" ID="{30BFA243-4D32-4BD9-9522-72CC90CA084E}" WorkUnitID="{C48D7C4E-A1A5-4E4A-A70B-8AB56D85A71A}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<WorkUnit Name="UI" ID="{D5C02A1B-4EBA-4A01-A5CE-3E1414FA8F35}" PersistMode="Reference"/>
+					</ChildrenList>
+				</ActorMixer>
+				<ActorMixer Name="World" ID="{8BDBCE9B-F44D-41C8-A2A5-C327F1C455E7}" ShortID="431106638">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{2654E8B0-CFFE-4E64-BA81-E8DBC9CF021F}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="SFX Bus" ID="{30BFA243-4D32-4BD9-9522-72CC90CA084E}" WorkUnitID="{C48D7C4E-A1A5-4E4A-A70B-8AB56D85A71A}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<WorkUnit Name="Ambience" ID="{7C43B4CB-D342-4E6E-96D8-53A2BBF995D0}" PersistMode="Reference"/>
+						<WorkUnit Name="Player" ID="{175672E3-D16A-4EB3-AA15-585508B5C795}" PersistMode="Reference"/>
+						<WorkUnit Name="Environment" ID="{5D125B2C-804B-4E4B-A9A4-741753084B52}" PersistMode="Reference"/>
+					</ChildrenList>
+				</ActorMixer>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>

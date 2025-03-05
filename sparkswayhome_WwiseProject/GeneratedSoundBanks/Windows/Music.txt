@@ -1,0 +1,19 @@
+Event	ID	Name			Wwise Object Path	Notes
+	117198637	Play_Mus_Ball			\Default Work Unit\Play_Mus_Ball	
+	570508420	Play_Mus_Elevator			\Default Work Unit\Play_Mus_Elevator	
+	645414876	Play_Mus_Level			\Default Work Unit\Play_Mus_Level	
+	2296325792	Play_Mus_Tutorial			\Default Work Unit\Play_Mus_Tutorial	
+	4092488408	Play_Mus_Filler			\Default Work Unit\Play_Mus_Filler	
+	4249884003	Play_Mus_Menu			\Default Work Unit\Play_Mus_Menu	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	35188565	mus_elevator_D_126bpm	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\mus_elevator_D_126bpm_F9F16890.wem		\Interactive Music Hierarchy\Music\Mus_Elevator\mus_elevator_D_126bpm		344091
+	51399731	mus_ball_Hm_142bpm	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\mus_ball_Hm_142bpm_F9F16890.wem		\Interactive Music Hierarchy\Music\Mus_Ball\mus_ball_Hm_142bpm		407501
+	123675294	FillerLoop_Drums	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\FillerLoop_Drums_F9F16890.wem		\Interactive Music Hierarchy\Music\Mus_Filler\Mus_Filler\FillerLoop_Drums		342555
+	358029555	240812_SparkMenu_D_96bpm_Looped	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\240812_SparkMenu_D_96bpm_Looped_F9F16890.wem		\Interactive Music Hierarchy\Music\Mus_Menu\240812_SparkMenu_D_96bpm_Looped		556196
+	642330795	240812_SparkLevel_D_96bpm	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\240812_SparkLevel_D_96bpm_F9F16890.wem		\Interactive Music Hierarchy\Music\Mus_Level\240812_SparkLevel_D_96bpm\240812_SparkLevel_D_96bpm		2084491
+	750030593	mus_tutorial_D_96bpm_Looped	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\mus_tutorial_D_96bpm_Looped_F9F16890.wem		\Interactive Music Hierarchy\Music\Mus_Tutorial\Mus_Tutorial\mus_tutorial_D_96bpm_Looped		870005
+	861076417	FillerLoop_AddPerc	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\FillerLoop_AddPerc_F9F16890.wem		\Interactive Music Hierarchy\Music\Mus_Filler\Mus_Filler\FillerLoop_AddPerc		370369
+	928249737	FillerLoop_Rhythm	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\FillerLoop_Rhythm_F9F16890.wem		\Interactive Music Hierarchy\Music\Mus_Filler\Mus_Filler\FillerLoop_Rhythm		326884
+	1002095189	240812_SparkFillerLoop_Gm_96bpm_Looped	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\240812_SparkFillerLoop_Gm_96bpm_Looped_F9F16890.wem		\Interactive Music Hierarchy\Music\Mus_Filler\Mus_Filler\240812_SparkFillerLoop_Gm_96bpm_Looped		377221
+

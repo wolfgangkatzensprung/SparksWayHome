@@ -1,0 +1,979 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="16" SoundBankVersion="150">
+	<RootPaths>
+		<ProjectRoot>../..</ProjectRoot>
+		<SourceFilesRoot>../../.cache/Mac</SourceFilesRoot>
+		<SoundBanksRoot>.</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>.</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<SoundBanks>
+		<SoundBank Id="393239870" Type="User" Language="SFX" Hash="{95C766B9-3C6D-E1B3-B48D-7C3CFCF54D6C}">
+			<ShortName>SFX</ShortName>
+			<Path>SFX.bnk</Path>
+			<Media>
+				<File Id="3057200" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_env_ball_tiles-002.wav</ShortName>
+					<CachePath>SFX/sfx_env_ball_tiles-002_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="7226943" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_plr_fs_metal-008.wav</ShortName>
+					<CachePath>SFX/sfx_plr_fs_metal-008_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="8009120" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_env_object_impact.wav</ShortName>
+					<CachePath>SFX/sfx_env_object_impact_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="19003832" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_env_sparks-005.wav</ShortName>
+					<CachePath>SFX/sfx_env_sparks-005_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="23090848" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_env_sparks-009.wav</ShortName>
+					<CachePath>SFX/sfx_env_sparks-009_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="35231275" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_env_button_spin_pulley_b.wav</ShortName>
+					<CachePath>SFX/sfx_env_button_spin_pulley_b_CE26A8C7.wem</CachePath>
+				</File>
+				<File Id="37755054" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_plr_fs_grass-005.wav</ShortName>
+					<CachePath>SFX/sfx_plr_fs_grass-005_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="38314103" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_plr_fs_metal-007.wav</ShortName>
+					<CachePath>SFX/sfx_plr_fs_metal-007_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="56680432" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_amb_water_drops-002.wav</ShortName>
+					<CachePath>SFX/sfx_amb_water_drops-002_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="60408857" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_env_sparks-006.wav</ShortName>
+					<CachePath>SFX/sfx_env_sparks-006_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="62819698" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_plr_fs_metal-004.wav</ShortName>
+					<CachePath>SFX/sfx_plr_fs_metal-004_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="71714862" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_plr_fs_stone-006.wav</ShortName>
+					<CachePath>SFX/sfx_plr_fs_stone-006_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="74629272" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_plr_fs_grass-002.wav</ShortName>
+					<CachePath>SFX/sfx_plr_fs_grass-002_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="92252601" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_plr_jump_intial-002.wav</ShortName>
+					<CachePath>SFX/sfx_plr_jump_intial-002_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="102860665" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_plr_land_metal-002.wav</ShortName>
+					<CachePath>SFX/sfx_plr_land_metal-002_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="125222505" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_amb_water_drops-005.wav</ShortName>
+					<CachePath>SFX/sfx_amb_water_drops-005_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="138128312" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_env_button_spin_gears.wav</ShortName>
+					<CachePath>SFX/sfx_env_button_spin_gears_CE26A8C7.wem</CachePath>
+				</File>
+				<File Id="145528819" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_plr_death_fall-001.wav</ShortName>
+					<CachePath>SFX/sfx_plr_death_fall-001_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="173789596" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_plr_fs_grass-006.wav</ShortName>
+					<CachePath>SFX/sfx_plr_fs_grass-006_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="175239629" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_plr_fs_stone-007.wav</ShortName>
+					<CachePath>SFX/sfx_plr_fs_stone-007_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="178952933" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_env_sparks-002.wav</ShortName>
+					<CachePath>SFX/sfx_env_sparks-002_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="194406362" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_amb_water_drops-008.wav</ShortName>
+					<CachePath>SFX/sfx_amb_water_drops-008_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="212868639" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_plr_fs_grass-003.wav</ShortName>
+					<CachePath>SFX/sfx_plr_fs_grass-003_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="216879144" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_plr_land_stone-003.wav</ShortName>
+					<CachePath>SFX/sfx_plr_land_stone-003_32B5A455.wem</CachePath>
+				</File>
+				<File Id="228667285" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_plr_fs_stone-001.wav</ShortName>
+					<CachePath>SFX/sfx_plr_fs_stone-001_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="230828419" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_plr_jump_boost.wav</ShortName>
+					<CachePath>SFX/sfx_plr_jump_boost_070447BB.wem</CachePath>
+				</File>
+				<File Id="248507819" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_amb_water_room.wav</ShortName>
+					<CachePath>SFX/sfx_amb_water_room_F9F16890.wem</CachePath>
+				</File>
+				<File Id="255462366" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_plr_death_electricity-002.wav</ShortName>
+					<CachePath>SFX/sfx_plr_death_electricity-002_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="256366288" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_env_button_awake.wav</ShortName>
+					<CachePath>SFX/sfx_env_button_awake_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="283105744" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_env_statue_rotating-002.wav</ShortName>
+					<CachePath>SFX/sfx_env_statue_rotating-002_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="289514438" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_plr_land_metal-001.wav</ShortName>
+					<CachePath>SFX/sfx_plr_land_metal-001_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="294694272" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_plr_fs_metal-005.wav</ShortName>
+					<CachePath>SFX/sfx_plr_fs_metal-005_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="305602488" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_plr_death_water_plunge.wav</ShortName>
+					<CachePath>SFX/sfx_plr_death_water_plunge_278DCFF3.wem</CachePath>
+				</File>
+				<File Id="322372839" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_plr_land_stone-002.wav</ShortName>
+					<CachePath>SFX/sfx_plr_land_stone-002_D00BD1A9.wem</CachePath>
+				</File>
+				<File Id="326066510" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_plr_fs_grass-008.wav</ShortName>
+					<CachePath>SFX/sfx_plr_fs_grass-008_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="332621194" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_amb_outdoor_gusts-002.wav</ShortName>
+					<CachePath>SFX/sfx_amb_outdoor_gusts-002_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="336353492" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_plr_fs_metal-003.wav</ShortName>
+					<CachePath>SFX/sfx_plr_fs_metal-003_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="337171510" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_ui_menu_click.wav</ShortName>
+					<CachePath>SFX/sfx_ui_menu_click_3C31DD0B.wem</CachePath>
+				</File>
+				<File Id="372997257" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_plr_jump_intial-001.wav</ShortName>
+					<CachePath>SFX/sfx_plr_jump_intial-001_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="383700164" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_plr_fs_metal-006.wav</ShortName>
+					<CachePath>SFX/sfx_plr_fs_metal-006_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="400441550" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_env_sparks-004.wav</ShortName>
+					<CachePath>SFX/sfx_env_sparks-004_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="406093969" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_amb_water_drops-010.wav</ShortName>
+					<CachePath>SFX/sfx_amb_water_drops-010_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="426817996" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_env_gearwheel_grind-002.wav</ShortName>
+					<CachePath>SFX/sfx_env_gearwheel_grind-002_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="441530994" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_plr_death_fall-002.wav</ShortName>
+					<CachePath>SFX/sfx_plr_death_fall-002_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="455586279" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_plr_fs_stone-008.wav</ShortName>
+					<CachePath>SFX/sfx_plr_fs_stone-008_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="455988294" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_ui_menu_closed.wav</ShortName>
+					<CachePath>SFX/sfx_ui_menu_closed_4F29FBB2.wem</CachePath>
+				</File>
+				<File Id="473153581" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_env_gate_open.wav</ShortName>
+					<CachePath>SFX/sfx_env_gate_open_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="474935858" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_plr_fs_metal-002.wav</ShortName>
+					<CachePath>SFX/sfx_plr_fs_metal-002_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="482517866" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_env_ball_tiles-003.wav</ShortName>
+					<CachePath>SFX/sfx_env_ball_tiles-003_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="493243209" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_env_sparks-010.wav</ShortName>
+					<CachePath>SFX/sfx_env_sparks-010_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="508880271" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_amb_outdoor_gusts-003.wav</ShortName>
+					<CachePath>SFX/sfx_amb_outdoor_gusts-003_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="530294619" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_env_button_spin_pulley_a.wav</ShortName>
+					<CachePath>SFX/sfx_env_button_spin_pulley_a_CE26A8C7.wem</CachePath>
+				</File>
+				<File Id="536748431" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_plr_fs_grass-004.wav</ShortName>
+					<CachePath>SFX/sfx_plr_fs_grass-004_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="539806442" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_plr_death_fall-003.wav</ShortName>
+					<CachePath>SFX/sfx_plr_death_fall-003_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="545770183" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_plr_land_grass-002.wav</ShortName>
+					<CachePath>SFX/sfx_plr_land_grass-002_13CFE95D.wem</CachePath>
+				</File>
+				<File Id="552929054" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_env_ball_impact.wav</ShortName>
+					<CachePath>SFX/sfx_env_ball_impact_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="572390603" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_env_button_spin_clock.wav</ShortName>
+					<CachePath>SFX/sfx_env_button_spin_clock_CE26A8C7.wem</CachePath>
+				</File>
+				<File Id="575203962" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_plr_death_electricity-001.wav</ShortName>
+					<CachePath>SFX/sfx_plr_death_electricity-001_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="589913480" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_env_sparks-003.wav</ShortName>
+					<CachePath>SFX/sfx_env_sparks-003_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="596196628" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_plr_fs_stone-002.wav</ShortName>
+					<CachePath>SFX/sfx_plr_fs_stone-002_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="619121760" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_plr_fs_stone-004.wav</ShortName>
+					<CachePath>SFX/sfx_plr_fs_stone-004_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="639730161" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_env_gearwheel_machine-002.wav</ShortName>
+					<CachePath>SFX/sfx_env_gearwheel_machine-002_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="651336380" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_env_orb_pulse.wav</ShortName>
+					<CachePath>SFX/sfx_env_orb_pulse_E6F62F20.wem</CachePath>
+				</File>
+				<File Id="658752280" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_amb_water_drops-006.wav</ShortName>
+					<CachePath>SFX/sfx_amb_water_drops-006_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="663142464" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_amb_outdoor_winds.wav</ShortName>
+					<CachePath>SFX/sfx_amb_outdoor_winds_E6F62F20.wem</CachePath>
+				</File>
+				<File Id="664349483" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_env_ball_tiles-001.wav</ShortName>
+					<CachePath>SFX/sfx_env_ball_tiles-001_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="669005737" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_amb_water_waterfall_far.wav</ShortName>
+					<CachePath>SFX/sfx_amb_water_waterfall_far_F9F16890.wem</CachePath>
+				</File>
+				<File Id="692296814" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_env_statue_rotating-001.wav</ShortName>
+					<CachePath>SFX/sfx_env_statue_rotating-001_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="694661652" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_plr_aura.wav</ShortName>
+					<CachePath>SFX/sfx_plr_aura_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="698329398" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_amb_outdoor_gusts-001.wav</ShortName>
+					<CachePath>SFX/sfx_amb_outdoor_gusts-001_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="702199108" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_plr_land_grass-001.wav</ShortName>
+					<CachePath>SFX/sfx_plr_land_grass-001_587FE890.wem</CachePath>
+				</File>
+				<File Id="703992851" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_plr_land_grass-003.wav</ShortName>
+					<CachePath>SFX/sfx_plr_land_grass-003_7E988262.wem</CachePath>
+				</File>
+				<File Id="709336774" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_plr_death_crushed-001.wav</ShortName>
+					<CachePath>SFX/sfx_plr_death_crushed-001_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="714941180" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_ui_menu_open.wav</ShortName>
+					<CachePath>SFX/sfx_ui_menu_open_C51F9194.wem</CachePath>
+				</File>
+				<File Id="718086083" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_amb_water_drops-007.wav</ShortName>
+					<CachePath>SFX/sfx_amb_water_drops-007_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="734134680" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_plr_fs_metal-001.wav</ShortName>
+					<CachePath>SFX/sfx_plr_fs_metal-001_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="741275567" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_amb_indoor_temple_upper.wav</ShortName>
+					<CachePath>SFX/sfx_amb_indoor_temple_upper_F9F16890.wem</CachePath>
+				</File>
+				<File Id="753580083" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>240812_Brass_D_OneShot.wav</ShortName>
+					<CachePath>SFX/240812_Brass_D_OneShot_F9F16890.wem</CachePath>
+				</File>
+				<File Id="768131869" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_plr_fs_grass-001.wav</ShortName>
+					<CachePath>SFX/sfx_plr_fs_grass-001_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="769843939" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_env_gearwheel_gears-003.wav</ShortName>
+					<CachePath>SFX/sfx_env_gearwheel_gears-003_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="769859521" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_env_gearwheel_gears-001.wav</ShortName>
+					<CachePath>SFX/sfx_env_gearwheel_gears-001_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="771032768" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_amb_indoor_temple_lower.wav</ShortName>
+					<CachePath>SFX/sfx_amb_indoor_temple_lower_F9F16890.wem</CachePath>
+				</File>
+				<File Id="783969909" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_plr_land_stone-001.wav</ShortName>
+					<CachePath>SFX/sfx_plr_land_stone-001_74940E34.wem</CachePath>
+				</File>
+				<File Id="786052988" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_env_sparks-007.wav</ShortName>
+					<CachePath>SFX/sfx_env_sparks-007_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="790586787" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_env_door_slide.wav</ShortName>
+					<CachePath>SFX/sfx_env_door_slide_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="792243716" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_env_gearwheel_gears-002.wav</ShortName>
+					<CachePath>SFX/sfx_env_gearwheel_gears-002_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="795608754" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_env_button_spin_squeak.wav</ShortName>
+					<CachePath>SFX/sfx_env_button_spin_squeak_CE26A8C7.wem</CachePath>
+				</File>
+				<File Id="807352760" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_env_statue_rotating-003.wav</ShortName>
+					<CachePath>SFX/sfx_env_statue_rotating-003_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="812410109" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_amb_water_drops-003.wav</ShortName>
+					<CachePath>SFX/sfx_amb_water_drops-003_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="824594536" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_env_gearwheel_grind-001.wav</ShortName>
+					<CachePath>SFX/sfx_env_gearwheel_grind-001_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="827770213" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_plr_fs_stone-003.wav</ShortName>
+					<CachePath>SFX/sfx_plr_fs_stone-003_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="866570018" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_env_sparks-008.wav</ShortName>
+					<CachePath>SFX/sfx_env_sparks-008_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="877915093" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_amb_water_drops-009.wav</ShortName>
+					<CachePath>SFX/sfx_amb_water_drops-009_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="878470309" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_amb_water_rise.wav</ShortName>
+					<CachePath>SFX/sfx_amb_water_rise_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="893039837" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_plr_land_metal-003.wav</ShortName>
+					<CachePath>SFX/sfx_plr_land_metal-003_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="908183434" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_amb_outdoor_gusts-005.wav</ShortName>
+					<CachePath>SFX/sfx_amb_outdoor_gusts-005_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="913772325" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_plr_fs_grass-007.wav</ShortName>
+					<CachePath>SFX/sfx_plr_fs_grass-007_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="922889245" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_plr_death_water_electricity.wav</ShortName>
+					<CachePath>SFX/sfx_plr_death_water_electricity_ABC2AFFD.wem</CachePath>
+				</File>
+				<File Id="925343767" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_plr_death_crushed-003.wav</ShortName>
+					<CachePath>SFX/sfx_plr_death_crushed-003_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="929278784" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_amb_outdoor_gusts-004.wav</ShortName>
+					<CachePath>SFX/sfx_amb_outdoor_gusts-004_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="941468909" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_env_gearwheel_machine-003.wav</ShortName>
+					<CachePath>SFX/sfx_env_gearwheel_machine-003_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="948297674" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_env_ball_tiles-004.wav</ShortName>
+					<CachePath>SFX/sfx_env_ball_tiles-004_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="976918209" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_plr_fs_stone-005.wav</ShortName>
+					<CachePath>SFX/sfx_plr_fs_stone-005_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="984986513" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_plr_death_electricity-003.wav</ShortName>
+					<CachePath>SFX/sfx_plr_death_electricity-003_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="998649734" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_env_sparks-001.wav</ShortName>
+					<CachePath>SFX/sfx_env_sparks-001_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="1012285324" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_env_ball_roll.wav</ShortName>
+					<CachePath>SFX/sfx_env_ball_roll_F9F16890.wem</CachePath>
+				</File>
+				<File Id="1018491484" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_plr_jump_intial-003.wav</ShortName>
+					<CachePath>SFX/sfx_plr_jump_intial-003_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="1020370981" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_plr_death_crushed-002.wav</ShortName>
+					<CachePath>SFX/sfx_plr_death_crushed-002_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="1025243183" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_env_gearwheel_machine-001.wav</ShortName>
+					<CachePath>SFX/sfx_env_gearwheel_machine-001_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="1027291168" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_amb_outdoor_gusts-006.wav</ShortName>
+					<CachePath>SFX/sfx_amb_outdoor_gusts-006_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="1034484684" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_env_gearwheel_grind-003.wav</ShortName>
+					<CachePath>SFX/sfx_env_gearwheel_grind-003_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="1034779114" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_env_platform_tilt.wav</ShortName>
+					<CachePath>SFX/sfx_env_platform_tilt_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="1035643982" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_env_platform_rotating.wav</ShortName>
+					<CachePath>SFX/sfx_env_platform_rotating_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="1046354578" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_amb_water_drops-001.wav</ShortName>
+					<CachePath>SFX/sfx_amb_water_drops-001_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="1053659950" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_plr_slide.wav</ShortName>
+					<CachePath>SFX/sfx_plr_slide_B5E6C086.wem</CachePath>
+				</File>
+				<File Id="1056198455" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_amb_water_waterfall_close.wav</ShortName>
+					<CachePath>SFX/sfx_amb_water_waterfall_close_F9F16890.wem</CachePath>
+				</File>
+				<File Id="1063362985" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_amb_water_drops-004.wav</ShortName>
+					<CachePath>SFX/sfx_amb_water_drops-004_B5E6C086.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="968040197" Name="Button1_Multi_Event" DurationType="OneShot" DurationMin="0" DurationMax="0">
+					<ActionPostEvent>
+						<ActionPostEventEntry Id="2097922715" Name="Play_Mus_Brass_One_Shot"/>
+						<ActionPostEventEntry Id="3767040642" Name="Play_Env_Gate_Open"/>
+					</ActionPostEvent>
+				</Event>
+				<Event Id="1681843228" Name="Menu_Pause_Audio_All" DurationType="OneShot" DurationMin="0" DurationMax="0">
+					<ActionPostEvent>
+						<ActionPostEventEntry Id="2021117817" Name="Play_UI_Menu_Open"/>
+					</ActionPostEvent>
+					<ActionSetState>
+						<ActionSetStateEntry GroupId="2607556080" Id="188046872" Name="Menu_On"/>
+					</ActionSetState>
+				</Event>
+				<Event Id="964364405" Name="Menu_Resume_Audio_All" DurationType="OneShot" DurationMin="0" DurationMax="0">
+					<ActionPostEvent>
+						<ActionPostEventEntry Id="219800031" Name="Play_UI_Menu_Close"/>
+					</ActionPostEvent>
+					<ActionSetState>
+						<ActionSetStateEntry GroupId="2607556080" Id="3036877654" Name="Menu_Off"/>
+					</ActionSetState>
+				</Event>
+				<Event Id="2698421402" Name="Play_Amb_Indoor_Temple_Lower" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="771032768"/>
+					</MediaRefs>
+					<ActionPostEvent>
+						<ActionPostEventEntry Id="2974264221" Name="Set_Voice_Volume_Amb_Outdoor_Winds"/>
+					</ActionPostEvent>
+				</Event>
+				<Event Id="2082829785" Name="Play_Amb_Indoor_Temple_Upper" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="741275567"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="3617920618" Name="Play_Amb_Outdoor_Gusts" MaxAttenuation="100" DurationType="OneShot" DurationMin="3.2019558" DurationMax="9.8298645">
+					<MediaRefs>
+						<MediaRef Id="332621194"/>
+						<MediaRef Id="508880271"/>
+						<MediaRef Id="698329398"/>
+						<MediaRef Id="908183434"/>
+						<MediaRef Id="929278784"/>
+						<MediaRef Id="1027291168"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="740452035" Name="Play_Amb_Outdoor_Winds" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="663142464"/>
+					</MediaRefs>
+					<ActionPostEvent>
+						<ActionPostEventEntry Id="2061252864" Name="Set_Voice_Volume_Amb_Indoor_Temple_Lower"/>
+					</ActionPostEvent>
+				</Event>
+				<Event Id="150663389" Name="Play_Amb_Water_Drops" MaxAttenuation="100" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="56680432"/>
+						<MediaRef Id="125222505"/>
+						<MediaRef Id="194406362"/>
+						<MediaRef Id="406093969"/>
+						<MediaRef Id="658752280"/>
+						<MediaRef Id="718086083"/>
+						<MediaRef Id="812410109"/>
+						<MediaRef Id="877915093"/>
+						<MediaRef Id="1046354578"/>
+						<MediaRef Id="1063362985"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="3617838854" Name="Play_Amb_Water_Rise" DurationType="OneShot" DurationMin="10.003031" DurationMax="10.003031">
+					<MediaRefs>
+						<MediaRef Id="878470309"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="4086626432" Name="Play_Amb_Water_Room" MaxAttenuation="100" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="248507819"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="263540209" Name="Play_Amb_Water_Waterfall" MaxAttenuation="100" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="669005737"/>
+						<MediaRef Id="1056198455"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="3421643090" Name="Play_Env_Ball_Impact" MaxAttenuation="60" DurationType="OneShot" DurationMin="2.6729167" DurationMax="2.6729167">
+					<MediaRefs>
+						<MediaRef Id="552929054"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="848919693" Name="Play_Env_Ball_Roll" MaxAttenuation="100" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="3057200"/>
+						<MediaRef Id="482517866"/>
+						<MediaRef Id="664349483"/>
+						<MediaRef Id="948297674"/>
+						<MediaRef Id="1012285324"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="3142295710" Name="Play_Env_Button_Awake" DurationType="OneShot" DurationMin="0.45977244" DurationMax="0.5467647">
+					<MediaRefs>
+						<MediaRef Id="256366288"/>
+					</MediaRefs>
+					<ActionPostEvent>
+						<ActionPostEventEntry Id="2244462449" Name="Play_Env_Button_Spin"/>
+					</ActionPostEvent>
+				</Event>
+				<Event Id="2244462449" Name="Play_Env_Button_Spin" MaxAttenuation="30" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="35231275"/>
+						<MediaRef Id="138128312"/>
+						<MediaRef Id="530294619"/>
+						<MediaRef Id="572390603"/>
+						<MediaRef Id="795608754"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="696896268" Name="Play_Env_Door_Slide" MaxAttenuation="45" DurationType="OneShot" DurationMin="5.7043333" DurationMax="5.7043333">
+					<MediaRefs>
+						<MediaRef Id="790586787"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="3767040642" Name="Play_Env_Gate_Open" MaxAttenuation="80" DurationType="OneShot" DurationMin="12.828625" DurationMax="12.828625">
+					<MediaRefs>
+						<MediaRef Id="473153581"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="3921241132" Name="Play_Env_Gearwheel" MaxAttenuation="80" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="426817996"/>
+						<MediaRef Id="639730161"/>
+						<MediaRef Id="769843939"/>
+						<MediaRef Id="769859521"/>
+						<MediaRef Id="792243716"/>
+						<MediaRef Id="824594536"/>
+						<MediaRef Id="941468909"/>
+						<MediaRef Id="1025243183"/>
+						<MediaRef Id="1034484684"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="3195203256" Name="Play_Env_Object_Impact" MaxAttenuation="100" DurationType="OneShot" DurationMin="2.6519582" DurationMax="2.6519582">
+					<MediaRefs>
+						<MediaRef Id="8009120"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="2009475901" Name="Play_Env_Orb" MaxAttenuation="45" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="19003832"/>
+						<MediaRef Id="23090848"/>
+						<MediaRef Id="60408857"/>
+						<MediaRef Id="178952933"/>
+						<MediaRef Id="400441550"/>
+						<MediaRef Id="493243209"/>
+						<MediaRef Id="589913480"/>
+						<MediaRef Id="651336380"/>
+						<MediaRef Id="786052988"/>
+						<MediaRef Id="866570018"/>
+						<MediaRef Id="998649734"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="3990772902" Name="Play_Env_Platform_Rotating" MaxAttenuation="45" DurationType="OneShot" DurationMin="6.9735417" DurationMax="6.9735417">
+					<MediaRefs>
+						<MediaRef Id="1035643982"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="2069786979" Name="Play_Env_Platform_Tilt" MaxAttenuation="100" DurationType="OneShot" DurationMin="2.952771" DurationMax="2.952771">
+					<MediaRefs>
+						<MediaRef Id="1034779114"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="926419377" Name="Play_Env_Statue_Rotating" DurationType="OneShot" DurationMin="2.4764688" DurationMax="2.4886668">
+					<MediaRefs>
+						<MediaRef Id="283105744"/>
+						<MediaRef Id="692296814"/>
+						<MediaRef Id="807352760"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="2097922715" Name="Play_Mus_Brass_One_Shot" DurationType="OneShot" DurationMin="5" DurationMax="5">
+					<MediaRefs>
+						<MediaRef Id="753580083"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="3100433642" Name="Play_Plr_Aura" DurationType="OneShot" DurationMin="1.0205505" DurationMax="1.3622713">
+					<MediaRefs>
+						<MediaRef Id="694661652"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="1900196180" Name="Play_Plr_Death_Crushed" DurationType="OneShot" DurationMin="1.9526042" DurationMax="2.011896">
+					<MediaRefs>
+						<MediaRef Id="709336774"/>
+						<MediaRef Id="925343767"/>
+						<MediaRef Id="1020370981"/>
+					</MediaRefs>
+					<ActionPostEvent>
+						<ActionPostEventEntry Id="3316890669" Name="Play_Plr_Death_Electricity"/>
+					</ActionPostEvent>
+				</Event>
+				<Event Id="3316890669" Name="Play_Plr_Death_Electricity" DurationType="OneShot" DurationMin="1.9802579" DurationMax="3.123725">
+					<MediaRefs>
+						<MediaRef Id="255462366"/>
+						<MediaRef Id="575203962"/>
+						<MediaRef Id="984986513"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="4124044977" Name="Play_Plr_Death_Fall" DurationType="OneShot" DurationMin="1.2197641" DurationMax="1.5730932">
+					<MediaRefs>
+						<MediaRef Id="145528819"/>
+						<MediaRef Id="441530994"/>
+						<MediaRef Id="539806442"/>
+					</MediaRefs>
+					<ActionPostEvent>
+						<ActionPostEventEntry Id="3316890669" Name="Play_Plr_Death_Electricity"/>
+					</ActionPostEvent>
+				</Event>
+				<Event Id="2644889065" Name="Play_Plr_Death_Water_Electricity" DurationType="OneShot" DurationMin="2.0883384" DurationMax="3.27948">
+					<MediaRefs>
+						<MediaRef Id="922889245"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="657942115" Name="Play_Plr_Death_Water_Plunge" DurationType="OneShot" DurationMin="1.8609642" DurationMax="2.7882957">
+					<MediaRefs>
+						<MediaRef Id="305602488"/>
+					</MediaRefs>
+					<ActionPostEvent>
+						<ActionPostEventEntry Id="2644889065" Name="Play_Plr_Death_Water_Electricity"/>
+					</ActionPostEvent>
+				</Event>
+				<Event Id="351037488" Name="Play_Plr_Footsteps" DurationType="OneShot" DurationMin="0.24354014" DurationMax="0.38226753">
+					<SwitchContainers>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="3714303081" Id="4248645337" Default="true"/>
+							<MediaRefs>
+								<MediaRef Id="37755054"/>
+								<MediaRef Id="74629272"/>
+								<MediaRef Id="173789596"/>
+								<MediaRef Id="212868639"/>
+								<MediaRef Id="326066510"/>
+								<MediaRef Id="536748431"/>
+								<MediaRef Id="768131869"/>
+								<MediaRef Id="913772325"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="3714303081" Id="2473969246"/>
+							<MediaRefs>
+								<MediaRef Id="7226943"/>
+								<MediaRef Id="38314103"/>
+								<MediaRef Id="62819698"/>
+								<MediaRef Id="294694272"/>
+								<MediaRef Id="336353492"/>
+								<MediaRef Id="383700164"/>
+								<MediaRef Id="474935858"/>
+								<MediaRef Id="734134680"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="3714303081" Id="1216965916"/>
+							<MediaRefs>
+								<MediaRef Id="71714862"/>
+								<MediaRef Id="175239629"/>
+								<MediaRef Id="228667285"/>
+								<MediaRef Id="455586279"/>
+								<MediaRef Id="596196628"/>
+								<MediaRef Id="619121760"/>
+								<MediaRef Id="827770213"/>
+								<MediaRef Id="976918209"/>
+							</MediaRefs>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="4286587527" Name="Play_Plr_Jump_Boost" DurationType="OneShot" DurationMin="1.5658288" DurationMax="1.9728206">
+					<MediaRefs>
+						<MediaRef Id="230828419"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="1290370774" Name="Play_Plr_Jump_Initial" DurationType="OneShot" DurationMin="1.0879488" DurationMax="1.3532975">
+					<MediaRefs>
+						<MediaRef Id="92252601"/>
+						<MediaRef Id="372997257"/>
+						<MediaRef Id="1018491484"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="682180468" Name="Play_Plr_Landing" DurationType="OneShot" DurationMin="0.275403" DurationMax="1.0279882">
+					<SwitchContainers>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="3714303081" Id="4248645337" Default="true"/>
+							<MediaRefs>
+								<MediaRef Id="545770183"/>
+								<MediaRef Id="702199108"/>
+								<MediaRef Id="703992851"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="3714303081" Id="2473969246"/>
+							<MediaRefs>
+								<MediaRef Id="102860665"/>
+								<MediaRef Id="289514438"/>
+								<MediaRef Id="893039837"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="3714303081" Id="1216965916"/>
+							<MediaRefs>
+								<MediaRef Id="216879144"/>
+								<MediaRef Id="322372839"/>
+								<MediaRef Id="783969909"/>
+							</MediaRefs>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="3638468098" Name="Play_Plr_Slide" DurationType="OneShot" DurationMin="9.363334" DurationMax="9.363334">
+					<MediaRefs>
+						<MediaRef Id="1053659950"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="353035171" Name="Play_UI_Menu_Click" DurationType="OneShot" DurationMin="0.63708526" DurationMax="0.80267715">
+					<MediaRefs>
+						<MediaRef Id="337171510"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="219800031" Name="Play_UI_Menu_Close" DurationType="OneShot" DurationMin="1.3032984" DurationMax="1.3032984">
+					<MediaRefs>
+						<MediaRef Id="455988294"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="2021117817" Name="Play_UI_Menu_Open" DurationType="OneShot" DurationMin="1.007581" DurationMax="1.007581">
+					<MediaRefs>
+						<MediaRef Id="714941180"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="2061252864" Name="Set_Voice_Volume_Amb_Indoor_Temple_Lower" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+				<Event Id="2974264221" Name="Set_Voice_Volume_Amb_Outdoor_Winds" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+			<GameParameters>
+				<GameParameter Id="487587012" Name="Player_Distance"/>
+			</GameParameters>
+			<StateGroups>
+				<StateGroup Id="2607556080" Name="Menu">
+					<States>
+						<State Id="188046872" Name="Menu_On"/>
+						<State Id="748895195" Name="None"/>
+						<State Id="3036877654" Name="Menu_Off"/>
+					</States>
+				</StateGroup>
+			</StateGroups>
+			<SwitchGroups>
+				<SwitchGroup Id="3714303081" Name="Surfaces">
+					<Switches>
+						<Switch Id="1216965916" Name="Stone"/>
+						<Switch Id="2473969246" Name="Metal"/>
+						<Switch Id="4248645337" Name="Grass"/>
+					</Switches>
+				</SwitchGroup>
+			</SwitchGroups>
+		</SoundBank>
+		<SoundBank Id="1355168291" Type="User" Language="SFX" Hash="{0D193C7D-5228-5AE9-8914-D00A8BF8C8A9}">
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+			<Plugins>
+				<Custom>
+					<Plugin Id="21287693" Name="Compressor (Custom)" LibName="Wwise Compressor" LibId="7077891"/>
+					<Plugin Id="1048221142" Name="Gain (Custom)" LibName="Wwise Gain" LibId="9109507"/>
+				</Custom>
+				<AudioDevices>
+					<Plugin Id="2317455096" Name="No_Output" LibName="No Output" LibId="11862023"/>
+					<Plugin Id="3859886410" Name="System" LibName="System" LibId="11403271"/>
+				</AudioDevices>
+			</Plugins>
+			<Busses>
+				<Bus Id="1502772432" Name="SFX Bus">
+					<PluginRefs>
+						<Custom>
+							<PluginRef Id="1048221142"/>
+						</Custom>
+					</PluginRefs>
+				</Bus>
+				<Bus Id="3127962312" Name="Music Bus">
+					<PluginRefs>
+						<Custom>
+							<PluginRef Id="21287693"/>
+						</Custom>
+					</PluginRefs>
+				</Bus>
+				<Bus Id="3803692087" Name="Master Audio Bus"/>
+			</Busses>
+			<GameParameters>
+				<GameParameter Id="487587012" Name="Player_Distance"/>
+				<GameParameter Id="3673881719" Name="Volume_SFX"/>
+				<GameParameter Id="3695994288" Name="Volume_Master"/>
+				<GameParameter Id="3891337659" Name="Volume_Music"/>
+			</GameParameters>
+			<StateGroups>
+				<StateGroup Id="2222466688" Name="Life_Status">
+					<States>
+						<State Id="748895195" Name="None"/>
+						<State Id="3374215396" Name="Life_Death"/>
+						<State Id="4274589453" Name="Life_Alive"/>
+					</States>
+				</StateGroup>
+				<StateGroup Id="2607556080" Name="Menu">
+					<States>
+						<State Id="188046872" Name="Menu_On"/>
+						<State Id="748895195" Name="None"/>
+						<State Id="3036877654" Name="Menu_Off"/>
+					</States>
+				</StateGroup>
+			</StateGroups>
+			<SwitchGroups>
+				<SwitchGroup Id="3714303081" Name="Surfaces">
+					<Switches>
+						<Switch Id="1216965916" Name="Stone"/>
+						<Switch Id="2473969246" Name="Metal"/>
+						<Switch Id="4248645337" Name="Grass"/>
+					</Switches>
+				</SwitchGroup>
+			</SwitchGroups>
+		</SoundBank>
+		<SoundBank Id="3991942870" Type="User" Language="SFX" Hash="{E5EF1FF9-60FC-C2CD-8786-3049E9E546A9}">
+			<ShortName>Music</ShortName>
+			<Path>Music.bnk</Path>
+			<Media>
+				<File Id="35188565" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>mus_elevator_D_126bpm.wav</ShortName>
+					<CachePath>SFX/mus_elevator_D_126bpm_F9F16890.wem</CachePath>
+				</File>
+				<File Id="51399731" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>mus_ball_Hm_142bpm.wav</ShortName>
+					<CachePath>SFX/mus_ball_Hm_142bpm_F9F16890.wem</CachePath>
+				</File>
+				<File Id="123675294" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>FillerLoop_Drums.wav</ShortName>
+					<CachePath>SFX/FillerLoop_Drums_F9F16890.wem</CachePath>
+				</File>
+				<File Id="358029555" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>240812_SparkMenu_D_96bpm_Looped.wav</ShortName>
+					<CachePath>SFX/240812_SparkMenu_D_96bpm_Looped_F9F16890.wem</CachePath>
+				</File>
+				<File Id="642330795" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>240812_SparkLevel_D_96bpm.wav</ShortName>
+					<CachePath>SFX/240812_SparkLevel_D_96bpm_F9F16890.wem</CachePath>
+				</File>
+				<File Id="750030593" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>mus_tutorial_D_96bpm_Looped.wav</ShortName>
+					<CachePath>SFX/mus_tutorial_D_96bpm_Looped_F9F16890.wem</CachePath>
+				</File>
+				<File Id="861076417" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>FillerLoop_AddPerc.wav</ShortName>
+					<CachePath>SFX/FillerLoop_AddPerc_F9F16890.wem</CachePath>
+				</File>
+				<File Id="928249737" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>FillerLoop_Rhythm.wav</ShortName>
+					<CachePath>SFX/FillerLoop_Rhythm_F9F16890.wem</CachePath>
+				</File>
+				<File Id="1002095189" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>240812_SparkFillerLoop_Gm_96bpm_Looped.wav</ShortName>
+					<CachePath>SFX/240812_SparkFillerLoop_Gm_96bpm_Looped_F9F16890.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="117198637" Name="Play_Mus_Ball" DurationType="OneShot" DurationMin="23.038729" DurationMax="23.038729">
+					<MediaRefs>
+						<MediaRef Id="51399731"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="570508420" Name="Play_Mus_Elevator" DurationType="OneShot" DurationMin="21.673397" DurationMax="21.673397">
+					<MediaRefs>
+						<MediaRef Id="35188565"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="4092488408" Name="Play_Mus_Filler" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="123675294"/>
+						<MediaRef Id="861076417"/>
+						<MediaRef Id="928249737"/>
+						<MediaRef Id="1002095189"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="645414876" Name="Play_Mus_Level" DurationType="OneShot" DurationMin="89.94006" DurationMax="89.94006">
+					<MediaRefs>
+						<MediaRef Id="642330795"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="4249884003" Name="Play_Mus_Menu" DurationType="OneShot" DurationMin="40" DurationMax="40">
+					<MediaRefs>
+						<MediaRef Id="358029555"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="2296325792" Name="Play_Mus_Tutorial" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="750030593"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{4FBF47C1-B8C6-4391-4230-88200EB35C62}</FileHash>
+</SoundBanksInfo>

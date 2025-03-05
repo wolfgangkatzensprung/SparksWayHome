@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{CC12C309-6002-48B3-9ACB-DC0E7C39333D}" SchemaVersion="119">
+	<SoundcasterSessions>
+		<WorkUnit Name="Default Work Unit" ID="{CC12C309-6002-48B3-9ACB-DC0E7C39333D}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundcasterSession Name="Testing Session" ID="{9578FEDF-7C52-44C0-866F-173FA3F69CB4}">
+					<ModuleList>
+						<Module>
+							<ObjectRef Name="Menu_Pause_Audio_All" ID="{32DF1B8F-8D58-4709-B21E-5ADCDDB134B0}" WorkUnitID="{6F456D90-8B14-490F-8338-975B2D72F3C6}"/>
+							<Position X="0" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Play_Mus_Filler" ID="{E433C145-D5E4-4531-9FC3-D514D71C01D1}" WorkUnitID="{6F456D90-8B14-490F-8338-975B2D72F3C6}"/>
+							<Position X="0" Y="1"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Play_Plr_Slide" ID="{8D01135B-C471-4563-AF81-21B12CA6B5A8}" WorkUnitID="{6F456D90-8B14-490F-8338-975B2D72F3C6}"/>
+							<Position X="1" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Play_Mus_Menu" ID="{6C6D7FF2-4577-4F22-9E3D-2153898143FA}" WorkUnitID="{6F456D90-8B14-490F-8338-975B2D72F3C6}"/>
+							<Position X="1" Y="1"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Menu_Resume_Audio_All" ID="{CA5881AE-BFF1-4B3F-8FB0-AB3B6E3AF771}" WorkUnitID="{6F456D90-8B14-490F-8338-975B2D72F3C6}"/>
+							<Position X="2" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Play_Mus_Tutorial" ID="{D09EFE32-275C-4BBC-9D13-3D7EA8609579}" WorkUnitID="{6F456D90-8B14-490F-8338-975B2D72F3C6}"/>
+							<Position X="2" Y="1"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Play_Plr_Jump_Boost" ID="{DE6CA468-57F8-40AF-8BB5-5F99CC051E93}" WorkUnitID="{6F456D90-8B14-490F-8338-975B2D72F3C6}"/>
+							<Position X="3" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Play_Plr_Jump_Initial" ID="{9A227482-9C34-4B07-9805-1BC313AE342F}" WorkUnitID="{6F456D90-8B14-490F-8338-975B2D72F3C6}"/>
+							<Position X="3" Y="1"/>
+						</Module>
+					</ModuleList>
+					<RTPCValueList ShowAll="true">
+						<RTPCValue>
+							<GameParameterRef Name="Volume_Music" ID="{5175FD35-01FD-4125-873A-4410835D6DE1}"/>
+							<Value>1</Value>
+						</RTPCValue>
+						<RTPCValue>
+							<GameParameterRef Name="Volume_Master" ID="{CBCCBCBE-7830-41FA-B312-B6CC5C8A3865}"/>
+							<Value>1</Value>
+						</RTPCValue>
+						<RTPCValue>
+							<GameParameterRef Name="Player_Distance" ID="{E667CFDC-140F-463A-91EA-373023EBD46E}"/>
+							<Value>0</Value>
+						</RTPCValue>
+						<RTPCValue>
+							<GameParameterRef Name="Volume_SFX" ID="{21AD5E7A-FC3F-4C36-B576-5694318DFB45}"/>
+							<Value>1</Value>
+						</RTPCValue>
+					</RTPCValueList>
+					<CurrentStateList ShowAll="true">
+						<CurrentStateRef Name="None" ID="{8A872EDB-8BD2-4C08-AB1C-DC9A3D30F7D7}"/>
+						<CurrentStateRef Name="None" ID="{28F1389B-86B2-47B5-BFDD-D49B933B6B92}"/>
+					</CurrentStateList>
+					<CurrentSwitchList ShowAll="true">
+						<CurrentSwitchRef Name="Grass" ID="{243E5146-E71A-479D-9BAC-75A4B00F7DCD}"/>
+					</CurrentSwitchList>
+				</SoundcasterSession>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundcasterSessions>
+</WwiseDocument>

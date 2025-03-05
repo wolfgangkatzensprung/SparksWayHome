@@ -1,10 +1,13 @@
 # Custom
 *.log
 /.idea
+.vsconfig
 
 # Portfolio Ignores
 Assets/Samples
 Assets/LaFinca
+Assets/Scalable Grid Prototype Materials
+Assets/Starter Assets
 
 
 # This .gitignore file should be placed at the root of your Unity project directory

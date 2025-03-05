@@ -1,0 +1,172 @@
+Event	ID	Name			Wwise Object Path	Notes
+	150663389	Play_Amb_Water_Drops			\Default Work Unit\Play_Amb_Water_Drops	
+	219800031	Play_UI_Menu_Close			\Default Work Unit\Play_UI_Menu_Close	
+	263540209	Play_Amb_Water_Waterfall			\Default Work Unit\Play_Amb_Water_Waterfall	
+	351037488	Play_Plr_Footsteps			\Default Work Unit\Play_Plr_Footsteps	
+	353035171	Play_UI_Menu_Click			\Default Work Unit\Play_UI_Menu_Click	
+	657942115	Play_Plr_Death_Water_Plunge			\Default Work Unit\Play_Plr_Death_Water_Plunge	
+	682180468	Play_Plr_Landing			\Default Work Unit\Play_Plr_Landing	
+	696896268	Play_Env_Door_Slide			\Default Work Unit\Play_Env_Door_Slide	
+	740452035	Play_Amb_Outdoor_Winds			\Default Work Unit\Play_Amb_Outdoor_Winds	
+	848919693	Play_Env_Ball_Roll			\Default Work Unit\Play_Env_Ball_Roll	
+	926419377	Play_Env_Statue_Rotating			\Default Work Unit\Play_Env_Statue_Rotating	
+	964364405	Menu_Resume_Audio_All			\Default Work Unit\Menu_Resume_Audio_All	
+	968040197	Button1_Multi_Event			\Default Work Unit\Button1_Multi_Event	
+	1290370774	Play_Plr_Jump_Initial			\Default Work Unit\Play_Plr_Jump_Initial	
+	1681843228	Menu_Pause_Audio_All			\Default Work Unit\Menu_Pause_Audio_All	
+	1900196180	Play_Plr_Death_Crushed			\Default Work Unit\Play_Plr_Death_Crushed	
+	2009475901	Play_Env_Orb			\Default Work Unit\Play_Env_Orb	
+	2021117817	Play_UI_Menu_Open			\Default Work Unit\Play_UI_Menu_Open	
+	2061252864	Set_Voice_Volume_Amb_Indoor_Temple_Lower			\Default Work Unit\Set_Voice_Volume_Amb_Indoor_Temple_Lower	
+	2069786979	Play_Env_Platform_Tilt			\Default Work Unit\Play_Env_Platform_Tilt	
+	2082829785	Play_Amb_Indoor_Temple_Upper			\Default Work Unit\Play_Amb_Indoor_Temple_Upper	
+	2097922715	Play_Mus_Brass_One_Shot			\Default Work Unit\Play_Mus_Brass_One_Shot	
+	2244462449	Play_Env_Button_Spin			\Default Work Unit\Play_Env_Button_Spin	
+	2644889065	Play_Plr_Death_Water_Electricity			\Default Work Unit\Play_Plr_Death_Water_Electricity	
+	2698421402	Play_Amb_Indoor_Temple_Lower			\Default Work Unit\Play_Amb_Indoor_Temple_Lower	
+	2974264221	Set_Voice_Volume_Amb_Outdoor_Winds			\Default Work Unit\Set_Voice_Volume_Amb_Outdoor_Winds	
+	3100433642	Play_Plr_Aura			\Default Work Unit\Play_Plr_Aura	
+	3142295710	Play_Env_Button_Awake			\Default Work Unit\Play_Env_Button_Awake	
+	3195203256	Play_Env_Object_Impact			\Default Work Unit\Play_Env_Object_Impact	
+	3316890669	Play_Plr_Death_Electricity			\Default Work Unit\Play_Plr_Death_Electricity	
+	3421643090	Play_Env_Ball_Impact			\Default Work Unit\Play_Env_Ball_Impact	
+	3617838854	Play_Amb_Water_Rise			\Default Work Unit\Play_Amb_Water_Rise	
+	3617920618	Play_Amb_Outdoor_Gusts			\Default Work Unit\Play_Amb_Outdoor_Gusts	
+	3638468098	Play_Plr_Slide			\Default Work Unit\Play_Plr_Slide	
+	3767040642	Play_Env_Gate_Open			\Default Work Unit\Play_Env_Gate_Open	
+	3921241132	Play_Env_Gearwheel			\Default Work Unit\Play_Env_Gearwheel	
+	3990772902	Play_Env_Platform_Rotating			\Default Work Unit\Play_Env_Platform_Rotating	
+	4086626432	Play_Amb_Water_Room			\Default Work Unit\Play_Amb_Water_Room	
+	4124044977	Play_Plr_Death_Fall			\Default Work Unit\Play_Plr_Death_Fall	
+	4286587527	Play_Plr_Jump_Boost			\Default Work Unit\Play_Plr_Jump_Boost	
+
+Switch Group	ID	Name			Wwise Object Path	Notes
+	3714303081	Surfaces			\Default Work Unit\Surfaces	
+
+Switch	ID	Name	Switch Group			Notes
+	1216965916	Stone	Surfaces			
+	2473969246	Metal	Surfaces			
+	4248645337	Grass	Surfaces			
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	487587012	Player_Distance			\Default Work Unit\Player_Distance	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	3057200	sfx_env_ball_tiles-002	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_env_ball_tiles-002_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Environment\Env_Ball_Roll\Tiles\sfx_env_ball_tiles-002		55383
+	7226943	sfx_plr_fs_metal-008	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_plr_fs_metal-008_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Player\Plr_Footsteps\FS_Metal\sfx_plr_fs_metal-008		4090
+	8009120	Env_Object_Impact	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_env_object_impact_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Environment\Env_Object_Impact		23811
+	19003832	sfx_env_sparks_5	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_env_sparks-005_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Environment\Env_Orb\Orb_Sparks\sfx_env_sparks_5		21941
+	23090848	sfx_env_sparks_9	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_env_sparks-009_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Environment\Env_Orb\Orb_Sparks\sfx_env_sparks_9		14172
+	35231275	sfx_env_button_spin_pulley_b	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_env_button_spin_pulley_b_CE26A8C7.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Environment\Env_Button_Spin\sfx_env_button_spin_pulley_b		53904
+	37755054	sfx_plr_fs_grass-005	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_plr_fs_grass-005_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Player\Plr_Footsteps\FS_Grass\sfx_plr_fs_grass-005		3982
+	38314103	sfx_plr_fs_metal-007	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_plr_fs_metal-007_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Player\Plr_Footsteps\FS_Metal\sfx_plr_fs_metal-007		3706
+	56680432	sfx_amb_water_drops_02	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_amb_water_drops-002_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Ambience\Water\Amb_Water_Drops\sfx_amb_water_drops_02		5620
+	60408857	sfx_env_sparks_6	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_env_sparks-006_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Environment\Env_Orb\Orb_Sparks\sfx_env_sparks_6		10308
+	62819698	sfx_plr_fs_metal-004	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_plr_fs_metal-004_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Player\Plr_Footsteps\FS_Metal\sfx_plr_fs_metal-004		3883
+	71714862	sfx_plr_fs_stone-006	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_plr_fs_stone-006_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Player\Plr_Footsteps\FS_Stone\sfx_plr_fs_stone-006		4260
+	74629272	sfx_plr_fs_grass-002	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_plr_fs_grass-002_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Player\Plr_Footsteps\FS_Grass\sfx_plr_fs_grass-002		3954
+	92252601	sfx_plr_jump_intial-002	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_plr_jump_intial-002_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Player\Plr_Jump_Initial\sfx_plr_jump_intial-002		3609
+	102860665	sfx_plr_land_metal_02	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_plr_land_metal-002_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Player\Plr_Landing\Landing_Metal\sfx_plr_land_metal_02		7061
+	125222505	sfx_amb_water_drops_05	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_amb_water_drops-005_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Ambience\Water\Amb_Water_Drops\sfx_amb_water_drops_05		3820
+	138128312	sfx_env_button_spin_gears	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_env_button_spin_gears_CE26A8C7.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Environment\Env_Button_Spin\sfx_env_button_spin_gears		73336
+	145528819	sfx_plr_death_fall_01	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_plr_death_fall-001_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Player\Plr_Death_Fall\sfx_plr_death_fall_01		5746
+	173789596	sfx_plr_fs_grass-006	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_plr_fs_grass-006_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Player\Plr_Footsteps\FS_Grass\sfx_plr_fs_grass-006		4542
+	175239629	sfx_plr_fs_stone-007	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_plr_fs_stone-007_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Player\Plr_Footsteps\FS_Stone\sfx_plr_fs_stone-007		3717
+	178952933	sfx_env_sparks_2	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_env_sparks-002_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Environment\Env_Orb\Orb_Sparks\sfx_env_sparks_2		12902
+	194406362	sfx_amb_water_drops_08	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_amb_water_drops-008_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Ambience\Water\Amb_Water_Drops\sfx_amb_water_drops_08		4516
+	212868639	sfx_plr_fs_grass-003	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_plr_fs_grass-003_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Player\Plr_Footsteps\FS_Grass\sfx_plr_fs_grass-003		4042
+	216879144	sfx_plr_land_stone_03	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_plr_land_stone-003_32B5A455.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Player\Plr_Landing\Landing_Stone\sfx_plr_land_stone_03		4782
+	228667285	sfx_plr_fs_stone-001	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_plr_fs_stone-001_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Player\Plr_Footsteps\FS_Stone\sfx_plr_fs_stone-001		4100
+	230828419	Plr_Jump_Boost	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_plr_jump_boost_070447BB.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Player\Plr_Jump_Boost		17062
+	248507819	Amb_Water_Room	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_amb_water_room_F9F16890.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Ambience\Water\Amb_Water_Room		373046
+	255462366	sfx_plr_death_electricity_02	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_plr_death_electricity-002_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Player\Plr_Death_Electricity\sfx_plr_death_electricity_02		16606
+	256366288	sfx_env_button_awake	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_env_button_awake_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Environment\Env_Button_Awake\sfx_env_button_awake		6871
+	283105744	sfx_env_statue_rotating_02	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_env_statue_rotating-002_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Environment\Env_Statue_Rotating\sfx_env_statue_rotating_02		31235
+	289514438	sfx_plr_land_metal_01	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_plr_land_metal-001_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Player\Plr_Landing\Landing_Metal\sfx_plr_land_metal_01		8913
+	294694272	sfx_plr_fs_metal-005	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_plr_fs_metal-005_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Player\Plr_Footsteps\FS_Metal\sfx_plr_fs_metal-005		3969
+	305602488	Plr_Death_Water_Plunge	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_plr_death_water_plunge_278DCFF3.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Player\Plr_Death_Water_Plunge		27373
+	322372839	sfx_plr_land_stone_02	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_plr_land_stone-002_D00BD1A9.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Player\Plr_Landing\Landing_Stone\sfx_plr_land_stone_02		3692
+	326066510	sfx_plr_fs_grass-008	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_plr_fs_grass-008_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Player\Plr_Footsteps\FS_Grass\sfx_plr_fs_grass-008		3630
+	332621194	sfx_amb_outdoor_gusts_02	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_amb_outdoor_gusts-002_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Ambience\Outdoor\Amb_Outdoor_Gusts\sfx_amb_outdoor_gusts_02		51966
+	336353492	sfx_plr_fs_metal-003	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_plr_fs_metal-003_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Player\Plr_Footsteps\FS_Metal\sfx_plr_fs_metal-003		3920
+	337171510	sfx_ui_menu_click	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_ui_menu_click_3C31DD0B.wem		\Actor-Mixer Hierarchy\Default Work Unit\Non_World\UI\sfx_ui_menu_click		11196
+	372997257	sfx_plr_jump_intial-001	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_plr_jump_intial-001_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Player\Plr_Jump_Initial\sfx_plr_jump_intial-001		3223
+	383700164	sfx_plr_fs_metal-006	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_plr_fs_metal-006_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Player\Plr_Footsteps\FS_Metal\sfx_plr_fs_metal-006		3813
+	400441550	sfx_env_sparks_4	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_env_sparks-004_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Environment\Env_Orb\Orb_Sparks\sfx_env_sparks_4		13940
+	406093969	sfx_amb_water_drops_10	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_amb_water_drops-010_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Ambience\Water\Amb_Water_Drops\sfx_amb_water_drops_10		5152
+	426817996	sfx_env_gearwheel_grind_02	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_env_gearwheel_grind-002_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Environment\Env_Gearwheel\Gearwheel_Grind\sfx_env_gearwheel_grind_02		48963
+	441530994	sfx_plr_death_fall_02	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_plr_death_fall-002_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Player\Plr_Death_Fall\sfx_plr_death_fall_02		6521
+	455586279	sfx_plr_fs_stone-008	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_plr_fs_stone-008_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Player\Plr_Footsteps\FS_Stone\sfx_plr_fs_stone-008		3413
+	455988294	sfx_ui_menu_closed	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_ui_menu_closed_4F29FBB2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Non_World\UI\sfx_ui_menu_closed		17336
+	473153581	Env_Gate_Open	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_env_gate_open_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Environment\Env_Gate_Open		198033
+	474935858	sfx_plr_fs_metal-002	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_plr_fs_metal-002_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Player\Plr_Footsteps\FS_Metal\sfx_plr_fs_metal-002		3851
+	482517866	sfx_env_ball_tiles-003	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_env_ball_tiles-003_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Environment\Env_Ball_Roll\Tiles\sfx_env_ball_tiles-003		38992
+	493243209	sfx_env_sparks_10	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_env_sparks-010_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Environment\Env_Orb\Orb_Sparks\sfx_env_sparks_10		9983
+	508880271	sfx_amb_outdoor_gusts_03	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_amb_outdoor_gusts-003_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Ambience\Outdoor\Amb_Outdoor_Gusts\sfx_amb_outdoor_gusts_03		74787
+	530294619	sfx_env_button_spin_pulley_a	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_env_button_spin_pulley_a_CE26A8C7.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Environment\Env_Button_Spin\sfx_env_button_spin_pulley_a		56090
+	536748431	sfx_plr_fs_grass-004	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_plr_fs_grass-004_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Player\Plr_Footsteps\FS_Grass\sfx_plr_fs_grass-004		3983
+	539806442	sfx_plr_death_fall_03	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_plr_death_fall-003_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Player\Plr_Death_Fall\sfx_plr_death_fall_03		6110
+	545770183	sfx_plr_land_grass_02	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_plr_land_grass-002_13CFE95D.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Player\Plr_Landing\Landing_Grass\sfx_plr_land_grass_02		4693
+	552929054	Env_Ball_Impact	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_env_ball_impact_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Environment\Env_Ball_Impact		23828
+	572390603	sfx_env_button_spin_clock	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_env_button_spin_clock_CE26A8C7.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Environment\Env_Button_Spin\sfx_env_button_spin_clock		53897
+	575203962	sfx_plr_death_electricity_01	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_plr_death_electricity-001_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Player\Plr_Death_Electricity\sfx_plr_death_electricity_01		17206
+	589913480	sfx_env_sparks_3	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_env_sparks-003_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Environment\Env_Orb\Orb_Sparks\sfx_env_sparks_3		10356
+	596196628	sfx_plr_fs_stone-002	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_plr_fs_stone-002_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Player\Plr_Footsteps\FS_Stone\sfx_plr_fs_stone-002		3781
+	619121760	sfx_plr_fs_stone-004	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_plr_fs_stone-004_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Player\Plr_Footsteps\FS_Stone\sfx_plr_fs_stone-004		3939
+	639730161	sfx_env_gearwheel_machine_02	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_env_gearwheel_machine-002_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Environment\Env_Gearwheel\Gearwheel_Machine\sfx_env_gearwheel_machine_02		92950
+	651336380	Orb_Pulse	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_env_orb_pulse_E6F62F20.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Environment\Env_Orb\Orb_Pulse		98444
+	658752280	sfx_amb_water_drops_06	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_amb_water_drops-006_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Ambience\Water\Amb_Water_Drops\sfx_amb_water_drops_06		4633
+	663142464	Amb_Outdoor_Winds	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_amb_outdoor_winds_E6F62F20.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Ambience\Outdoor\Amb_Outdoor_Winds		217440
+	664349483	sfx_env_ball_tiles-001	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_env_ball_tiles-001_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Environment\Env_Ball_Roll\Tiles\sfx_env_ball_tiles-001		69951
+	669005737	Amb_Water_Waterfall_Far	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_amb_water_waterfall_far_F9F16890.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Ambience\Water\Amb_Water_Waterfall_Far		138837
+	692296814	sfx_env_statue_rotating_01	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_env_statue_rotating-001_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Environment\Env_Statue_Rotating\sfx_env_statue_rotating_01		29463
+	694661652	sfx_plr_aura	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_plr_aura_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Player\Plr_Aura\sfx_plr_aura		17512
+	698329398	sfx_amb_outdoor_gusts_01	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_amb_outdoor_gusts-001_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Ambience\Outdoor\Amb_Outdoor_Gusts\sfx_amb_outdoor_gusts_01		111618
+	702199108	sfx_plr_land_grass_01	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_plr_land_grass-001_587FE890.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Player\Plr_Landing\Landing_Grass\sfx_plr_land_grass_01		5358
+	703992851	sfx_plr_land_grass_03	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_plr_land_grass-003_7E988262.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Player\Plr_Landing\Landing_Grass\sfx_plr_land_grass_03		4947
+	709336774	sfx_plr_death_crushed_01	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_plr_death_crushed-001_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Player\Plr_Death_Crushed\sfx_plr_death_crushed_01		15747
+	714941180	sfx_ui_menu_open	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_ui_menu_open_C51F9194.wem		\Actor-Mixer Hierarchy\Default Work Unit\Non_World\UI\sfx_ui_menu_open		14439
+	718086083	sfx_amb_water_drops_07	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_amb_water_drops-007_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Ambience\Water\Amb_Water_Drops\sfx_amb_water_drops_07		6085
+	734134680	sfx_plr_fs_metal-001	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_plr_fs_metal-001_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Player\Plr_Footsteps\FS_Metal\sfx_plr_fs_metal-001		3982
+	741275567	Amb_Indoor_Temple_Upper	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_amb_indoor_temple_upper_F9F16890.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Ambience\Indoor\Amb_Indoor_Temple_Upper		149985
+	753580083	240812_Brass_D_OneShot	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\240812_Brass_D_OneShot_F9F16890.wem		\Interactive Music Hierarchy\Music\Mus_Brass_One_Shot\240812_Brass_D_OneShot		127720
+	768131869	sfx_plr_fs_grass-001	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_plr_fs_grass-001_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Player\Plr_Footsteps\FS_Grass\sfx_plr_fs_grass-001		4409
+	769843939	sfx_env_gearwheel_gears_03	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_env_gearwheel_gears-003_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Environment\Env_Gearwheel\Gearwheel_Gears\sfx_env_gearwheel_gears_03		50831
+	769859521	sfx_env_gearwheel_gears_01	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_env_gearwheel_gears-001_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Environment\Env_Gearwheel\Gearwheel_Gears\sfx_env_gearwheel_gears_01		63969
+	771032768	Amb_Indoor_Temple_Lower	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_amb_indoor_temple_lower_F9F16890.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Ambience\Indoor\Amb_Indoor_Temple_Lower		152736
+	783969909	sfx_plr_land_stone_01	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_plr_land_stone-001_74940E34.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Player\Plr_Landing\Landing_Stone\sfx_plr_land_stone_01		5206
+	786052988	sfx_env_sparks_7	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_env_sparks-007_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Environment\Env_Orb\Orb_Sparks\sfx_env_sparks_7		9294
+	790586787	Env_Door_Slide	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_env_door_slide_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Environment\Env_Door_Slide		55299
+	792243716	sfx_env_gearwheel_gears_02	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_env_gearwheel_gears-002_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Environment\Env_Gearwheel\Gearwheel_Gears\sfx_env_gearwheel_gears_02		50842
+	795608754	sfx_env_button_spin_squeak	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_env_button_spin_squeak_CE26A8C7.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Environment\Env_Button_Spin\sfx_env_button_spin_squeak		56237
+	807352760	sfx_env_statue_rotating_03	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_env_statue_rotating-003_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Environment\Env_Statue_Rotating\sfx_env_statue_rotating_03		32921
+	812410109	sfx_amb_water_drops_03	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_amb_water_drops-003_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Ambience\Water\Amb_Water_Drops\sfx_amb_water_drops_03		5932
+	824594536	sfx_env_gearwheel_grind_01	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_env_gearwheel_grind-001_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Environment\Env_Gearwheel\Gearwheel_Grind\sfx_env_gearwheel_grind_01		52132
+	827770213	sfx_plr_fs_stone-003	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_plr_fs_stone-003_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Player\Plr_Footsteps\FS_Stone\sfx_plr_fs_stone-003		4151
+	866570018	sfx_env_sparks_8	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_env_sparks-008_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Environment\Env_Orb\Orb_Sparks\sfx_env_sparks_8		12750
+	877915093	sfx_amb_water_drops_09	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_amb_water_drops-009_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Ambience\Water\Amb_Water_Drops\sfx_amb_water_drops_09		3861
+	878470309	Amb_Water_Rise	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_amb_water_rise_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Ambience\Water\Amb_Water_Rise		133248
+	893039837	sfx_plr_land_metal_03	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_plr_land_metal-003_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Player\Plr_Landing\Landing_Metal\sfx_plr_land_metal_03		6732
+	908183434	sfx_amb_outdoor_gusts_05	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_amb_outdoor_gusts-005_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Ambience\Outdoor\Amb_Outdoor_Gusts\sfx_amb_outdoor_gusts_05		96502
+	913772325	sfx_plr_fs_grass-007	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_plr_fs_grass-007_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Player\Plr_Footsteps\FS_Grass\sfx_plr_fs_grass-007		4060
+	922889245	Plr_Death_Water_Electricity	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_plr_death_water_electricity_ABC2AFFD.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Player\Plr_Death_Water_Electricity		23476
+	925343767	sfx_plr_death_crushed_03	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_plr_death_crushed-003_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Player\Plr_Death_Crushed\sfx_plr_death_crushed_03		16056
+	929278784	sfx_amb_outdoor_gusts_04	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_amb_outdoor_gusts-004_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Ambience\Outdoor\Amb_Outdoor_Gusts\sfx_amb_outdoor_gusts_04		47658
+	941468909	sfx_env_gearwheel_machine_03	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_env_gearwheel_machine-003_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Environment\Env_Gearwheel\Gearwheel_Machine\sfx_env_gearwheel_machine_03		89360
+	948297674	sfx_env_ball_tiles-004	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_env_ball_tiles-004_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Environment\Env_Ball_Roll\Tiles\sfx_env_ball_tiles-004		47066
+	976918209	sfx_plr_fs_stone-005	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_plr_fs_stone-005_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Player\Plr_Footsteps\FS_Stone\sfx_plr_fs_stone-005		3801
+	984986513	sfx_plr_death_electricity_03	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_plr_death_electricity-003_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Player\Plr_Death_Electricity\sfx_plr_death_electricity_03		20775
+	998649734	sfx_env_sparks_1	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_env_sparks-001_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Environment\Env_Orb\Orb_Sparks\sfx_env_sparks_1		13316
+	1012285324	sfx_env_ball_roll	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_env_ball_roll_F9F16890.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Environment\Env_Ball_Roll\sfx_env_ball_roll		115205
+	1018491484	sfx_plr_jump_intial-003	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_plr_jump_intial-003_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Player\Plr_Jump_Initial\sfx_plr_jump_intial-003		2556
+	1020370981	sfx_plr_death_crushed_02	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_plr_death_crushed-002_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Player\Plr_Death_Crushed\sfx_plr_death_crushed_02		14789
+	1025243183	sfx_env_gearwheel_machine_01	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_env_gearwheel_machine-001_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Environment\Env_Gearwheel\Gearwheel_Machine\sfx_env_gearwheel_machine_01		89702
+	1027291168	sfx_amb_outdoor_gusts_06	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_amb_outdoor_gusts-006_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Ambience\Outdoor\Amb_Outdoor_Gusts\sfx_amb_outdoor_gusts_06		73801
+	1034484684	sfx_env_gearwheel_grind_03	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_env_gearwheel_grind-003_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Environment\Env_Gearwheel\Gearwheel_Grind\sfx_env_gearwheel_grind_03		47002
+	1034779114	Env_Platform_Tilt	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_env_platform_tilt_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Environment\Env_Platform_Tilt		24269
+	1035643982	Env_Platform_Rotating	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_env_platform_rotating_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Environment\Env_Platform_Rotating		76286
+	1046354578	sfx_amb_water_drops_01	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_amb_water_drops-001_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Ambience\Water\Amb_Water_Drops\sfx_amb_water_drops_01		6657
+	1053659950	Plr_Slide	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_plr_slide_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Player\Plr_Slide		81171
+	1056198455	Amb_Water_Waterfall_Close	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_amb_water_waterfall_close_F9F16890.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Ambience\Water\Amb_Water_Waterfall_Close		225512
+	1063362985	sfx_amb_water_drops_04	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Windows\SFX\sfx_amb_water_drops-004_B5E6C086.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Ambience\Water\Amb_Water_Drops\sfx_amb_water_drops_04		6073
+

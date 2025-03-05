@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: ba123ccffe4583d428190c7780f53c57
+  - enabled: 1
+    path: Assets/Scenes/UI.unity
+    guid: 890492cd63c91894bab25116eb49cc3e
+  - enabled: 0
+    path: Assets/Scenes/Level.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 0
+    path: Assets/Scenes/Just Test Level.unity
+    guid: af20fac5e92862745a1c3017ca9b965e
+  - enabled: 0
+    path: Assets/Scenes/Ashe Test Scene.unity
+    guid: edc25e0ab9f7f3147b84a9a5c0bad8fb
+  - enabled: 1
+    path: Assets/Scenes/UI/MainMenu.unity
+    guid: 609b1502d85521b499140a6d60cdf4c5
+  - enabled: 1
+    path: Assets/Scenes/UI/OptionsMenu.unity
+    guid: 8788cf8870c59ed438ac6bbc096e5e58
+  - enabled: 1
+    path: Assets/Scenes/UI/IntroCutscene.unity
+    guid: 5d309eb0693257745b913f2e5a28d7f1
+  - enabled: 1
+    path: Assets/Scenes/UI/OutroCutscene.unity
+    guid: 9543d09e3312fdb478b2f65ac4f80ff6
+  - enabled: 1
+    path: Assets/Scenes/UI/Credits.unity
+    guid: 856171dfd4a679e458d4cc7810d079a3
+  - enabled: 1
+    path: Assets/Scenes/UI/PauseOverlay.unity
+    guid: 7659e30dac55afc49bc8fd12686d26dc
+  - enabled: 0
+    path: Assets/Scenes/Level Areas/LevelShowcase.unity
+    guid: 09a7a4ebdeace06469e5c6e1d2442aa9
+  - enabled: 1
+    path: Assets/Scenes/Level Areas/Level Area A.unity
+    guid: 04a159b6727b1384394a2f8573d86d05
+  - enabled: 1
+    path: Assets/Scenes/Level Areas/Level Area B.unity
+    guid: 1181c0ef8788d9a488103813b485e5de
+  - enabled: 1
+    path: Assets/Scenes/Level Areas/Level Area C.unity
+    guid: 19c63d093f8ed4849acbb2dbd083e222
+  - enabled: 1
+    path: Assets/Scenes/Level Areas/Level Area CD.unity
+    guid: f00a2b3be8c5fe04b90b4cd8246f0d72
+  - enabled: 1
+    path: Assets/Scenes/Level Areas/Level Area D.unity
+    guid: 3b1922b1e5cfe954286860c492fcece9
+  - enabled: 1
+    path: Assets/Scenes/Level Areas/Terrain Environment.unity
+    guid: 1559b205948bb49f999d19ffd79f1613
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: a8119d7ef6f19e04aa3f36cff315ffe6,
+      type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: 9e7be553448fa2546aea5752021cbcf7,
+      type: 2}

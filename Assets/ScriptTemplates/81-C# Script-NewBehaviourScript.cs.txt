@@ -1,0 +1,21 @@
+using UnityEngine;
+
+    #ROOTNAMESPACEBEGIN#
+public class #SCRIPTNAME# : MonoBehaviour
+{
+    void OnEnable()
+    {
+        #NOTRIM#
+    }
+
+    void OnDisable()
+    {
+        #NOTRIM#
+    }
+
+    void Start()
+    {
+        #NOTRIM#
+    }
+}
+#ROOTNAMESPACEEND#

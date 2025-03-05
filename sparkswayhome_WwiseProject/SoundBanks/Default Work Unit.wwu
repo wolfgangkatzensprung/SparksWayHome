@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{466BDFFC-1D25-4270-A309-D9F6979E01D6}" SchemaVersion="119">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{466BDFFC-1D25-4270-A309-D9F6979E01D6}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="Music" ID="{8BB79D51-7ACA-48E3-ADE4-EBDF13547D67}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Play_Mus_Filler" ID="{E433C145-D5E4-4531-9FC3-D514D71C01D1}" WorkUnitID="{6F456D90-8B14-490F-8338-975B2D72F3C6}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Mus_Ball" ID="{2031EF70-7082-461E-8514-5B5238286345}" WorkUnitID="{6F456D90-8B14-490F-8338-975B2D72F3C6}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Mus_Elevator" ID="{2B6A3373-F106-4765-A4AE-5F63EA3DB852}" WorkUnitID="{6F456D90-8B14-490F-8338-975B2D72F3C6}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Mus_Tutorial" ID="{D09EFE32-275C-4BBC-9D13-3D7EA8609579}" WorkUnitID="{6F456D90-8B14-490F-8338-975B2D72F3C6}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Mus_Level" ID="{8B14DBEA-499A-4DF2-9E4F-3DA5C6D1D2A4}" WorkUnitID="{6F456D90-8B14-490F-8338-975B2D72F3C6}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Mus_Menu" ID="{6C6D7FF2-4577-4F22-9E3D-2153898143FA}" WorkUnitID="{6F456D90-8B14-490F-8338-975B2D72F3C6}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="SFX" ID="{CCDC1120-FC00-4636-B1DC-4541C985C443}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Play_UI_Menu_Close" ID="{1F7736BF-C00F-402D-963F-2065DB983DBF}" WorkUnitID="{6F456D90-8B14-490F-8338-975B2D72F3C6}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Plr_Death_Fall" ID="{18D85EBB-7414-4098-920E-7467E5FE556F}" WorkUnitID="{6F456D90-8B14-490F-8338-975B2D72F3C6}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Plr_Jump_Boost" ID="{DE6CA468-57F8-40AF-8BB5-5F99CC051E93}" WorkUnitID="{6F456D90-8B14-490F-8338-975B2D72F3C6}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Set_Voice_Volume_Amb_Indoor_Temple_Lower" ID="{5AB0F3A1-FDD1-40CF-8C5D-0B157AB64781}" WorkUnitID="{6F456D90-8B14-490F-8338-975B2D72F3C6}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Amb_Indoor_Temple_Lower" ID="{D4166E0E-3529-4142-96DB-43F1BBFA30EC}" WorkUnitID="{6F456D90-8B14-490F-8338-975B2D72F3C6}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_UI_Menu_Click" ID="{D2E95EAD-1C9E-4188-9A3E-4E3F72205A57}" WorkUnitID="{6F456D90-8B14-490F-8338-975B2D72F3C6}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Amb_Water_Waterfall" ID="{1D1E4137-A175-4253-A5C1-898EAB9445EF}" WorkUnitID="{6F456D90-8B14-490F-8338-975B2D72F3C6}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Plr_Landing" ID="{2C009287-B3D5-43A0-A7FB-2EBBAB832CC6}" WorkUnitID="{6F456D90-8B14-490F-8338-975B2D72F3C6}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Amb_Water_Drops" ID="{32CD0B49-85B5-43DA-9A38-3DA6DC5F3114}" WorkUnitID="{6F456D90-8B14-490F-8338-975B2D72F3C6}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Env_Button_Spin" ID="{4C283B3D-EB62-4413-ADE1-98A342AC78A7}" WorkUnitID="{6F456D90-8B14-490F-8338-975B2D72F3C6}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Env_Door_Slide" ID="{2A67D56B-DB81-4441-BE9A-2E072A0634F9}" WorkUnitID="{6F456D90-8B14-490F-8338-975B2D72F3C6}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Plr_Slide" ID="{8D01135B-C471-4563-AF81-21B12CA6B5A8}" WorkUnitID="{6F456D90-8B14-490F-8338-975B2D72F3C6}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Amb_Water_Rise" ID="{C8BE2B71-B5C1-4580-ADDB-B9E79B3BF0FC}" WorkUnitID="{6F456D90-8B14-490F-8338-975B2D72F3C6}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Set_Voice_Volume_Amb_Outdoor_Winds" ID="{1E50C20F-A0D2-45B0-AE94-DDF5360D049E}" WorkUnitID="{6F456D90-8B14-490F-8338-975B2D72F3C6}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Env_Statue_Rotating" ID="{027E986E-DBEC-4655-82DD-AE614F6D9345}" WorkUnitID="{6F456D90-8B14-490F-8338-975B2D72F3C6}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Env_Button_Awake" ID="{2CA0CBF2-91E7-46E2-82CB-8159469CD88E}" WorkUnitID="{6F456D90-8B14-490F-8338-975B2D72F3C6}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Menu_Pause_Audio_All" ID="{32DF1B8F-8D58-4709-B21E-5ADCDDB134B0}" WorkUnitID="{6F456D90-8B14-490F-8338-975B2D72F3C6}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Plr_Death_Electricity" ID="{9B5E4ED6-DA4F-4730-A707-DC482CBFD79A}" WorkUnitID="{6F456D90-8B14-490F-8338-975B2D72F3C6}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Amb_Outdoor_Gusts" ID="{2ECE5B08-32D2-473C-AB06-A1C7391A3F85}" WorkUnitID="{6F456D90-8B14-490F-8338-975B2D72F3C6}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Plr_Footsteps" ID="{751A0587-D52D-47B4-B5F2-265DE64FFA2C}" WorkUnitID="{6F456D90-8B14-490F-8338-975B2D72F3C6}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Env_Ball_Impact" ID="{F6345008-59DB-47B9-A3FF-00B2F698DC38}" WorkUnitID="{6F456D90-8B14-490F-8338-975B2D72F3C6}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_UI_Menu_Open" ID="{B714A3F7-64D1-4920-A162-5B6F86FDEC51}" WorkUnitID="{6F456D90-8B14-490F-8338-975B2D72F3C6}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Amb_Outdoor_Winds" ID="{0BDAE7AD-A30A-4923-8FE1-B8A8E914D13E}" WorkUnitID="{6F456D90-8B14-490F-8338-975B2D72F3C6}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Plr_Death_Crushed" ID="{165B595E-6BB3-49A4-8357-08B8C077FCC4}" WorkUnitID="{6F456D90-8B14-490F-8338-975B2D72F3C6}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Env_Orb" ID="{6A3E0895-6311-49E4-ACD6-D40855259D54}" WorkUnitID="{6F456D90-8B14-490F-8338-975B2D72F3C6}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Env_Gate_Open" ID="{CB6AC381-BAFD-49FD-BBBA-4524E3540076}" WorkUnitID="{6F456D90-8B14-490F-8338-975B2D72F3C6}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Plr_Jump_Initial" ID="{9A227482-9C34-4B07-9805-1BC313AE342F}" WorkUnitID="{6F456D90-8B14-490F-8338-975B2D72F3C6}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Menu_Resume_Audio_All" ID="{CA5881AE-BFF1-4B3F-8FB0-AB3B6E3AF771}" WorkUnitID="{6F456D90-8B14-490F-8338-975B2D72F3C6}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Env_Platform_Tilt" ID="{6C9CF90A-0245-4C2B-A2EA-B7237A485614}" WorkUnitID="{6F456D90-8B14-490F-8338-975B2D72F3C6}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Plr_Death_Water_Plunge" ID="{CB555C4F-8F3A-4C6C-A0CF-A4B35C7E838B}" WorkUnitID="{6F456D90-8B14-490F-8338-975B2D72F3C6}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Env_Object_Impact" ID="{0770FCA2-EFAF-4C94-9756-3F7D0CE56D5A}" WorkUnitID="{6F456D90-8B14-490F-8338-975B2D72F3C6}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Plr_Aura" ID="{2B4820CA-04D3-4CA0-ADB5-2ED8D5727DEC}" WorkUnitID="{6F456D90-8B14-490F-8338-975B2D72F3C6}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Amb_Water_Room" ID="{9AA0A09B-FE2E-4CA0-A69D-BB17ECC8C85D}" WorkUnitID="{6F456D90-8B14-490F-8338-975B2D72F3C6}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Env_Gearwheel" ID="{40045705-30E9-4E63-81DA-8C652C4521A5}" WorkUnitID="{6F456D90-8B14-490F-8338-975B2D72F3C6}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Plr_Death_Water_Electricity" ID="{6107998F-0837-4E79-BE76-8AFB6EFE7A1D}" WorkUnitID="{6F456D90-8B14-490F-8338-975B2D72F3C6}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Env_Ball_Roll" ID="{35CD1C21-4302-4EAD-A084-C01F1262DF9F}" WorkUnitID="{6F456D90-8B14-490F-8338-975B2D72F3C6}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Amb_Indoor_Temple_Upper" ID="{7F75C1B2-DDA8-4F36-9ABC-E9D72197B22D}" WorkUnitID="{6F456D90-8B14-490F-8338-975B2D72F3C6}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Env_Platform_Rotating" ID="{E301DE84-327D-4F54-96DB-7B9E8A024069}" WorkUnitID="{6F456D90-8B14-490F-8338-975B2D72F3C6}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Button1_Multi_Event" ID="{442E2EF3-19E3-4F70-A3CF-0EF73E3B6B5E}" WorkUnitID="{6F456D90-8B14-490F-8338-975B2D72F3C6}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

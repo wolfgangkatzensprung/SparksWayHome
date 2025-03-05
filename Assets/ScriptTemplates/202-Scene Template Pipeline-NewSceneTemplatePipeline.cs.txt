@@ -1,0 +1,22 @@
+using UnityEngine.SceneManagement;
+using UnityEditor.SceneTemplate;
+
+    #ROOTNAMESPACEBEGIN#
+public class #SCRIPTNAME# : ISceneTemplatePipeline
+{
+    public virtual bool IsValidTemplateForInstantiation(SceneTemplateAsset sceneTemplateAsset)
+    {
+        return true;
+    }
+
+    public virtual void BeforeTemplateInstantiation(SceneTemplateAsset sceneTemplateAsset, bool isAdditive, string sceneName)
+    {
+        #NOTRIM#
+    }
+
+    public virtual void AfterTemplateInstantiation(SceneTemplateAsset sceneTemplateAsset, Scene scene, bool isAdditive, string sceneName)
+    {
+        #NOTRIM#
+    }
+}
+#ROOTNAMESPACEEND#

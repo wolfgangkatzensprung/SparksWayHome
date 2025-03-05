@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{8EF31932-0410-490E-B7F1-6D4A23C40780}" SchemaVersion="119">
+	<States>
+		<WorkUnit Name="Default Work Unit" ID="{8EF31932-0410-490E-B7F1-6D4A23C40780}" PersistMode="Standalone">
+			<ChildrenList>
+				<StateGroup Name="Life_Status" ID="{BD8FE332-203E-4267-8EBB-2F405EEA2580}">
+					<ChildrenList>
+						<State Name="None" ID="{28F1389B-86B2-47B5-BFDD-D49B933B6B92}"/>
+						<State Name="Life_Alive" ID="{BAB6328E-E0AA-4576-83AD-D46302D95E61}"/>
+						<State Name="Life_Death" ID="{2F19D510-5D2F-4FF4-B3A3-CFFE50087EA4}"/>
+					</ChildrenList>
+					<TransitionList>
+						<Transition>
+							<StartState Name="Life_Alive" ID="{BAB6328E-E0AA-4576-83AD-D46302D95E61}"/>
+							<EndState Name="Life_Death" ID="{2F19D510-5D2F-4FF4-B3A3-CFFE50087EA4}"/>
+							<Time>0.5</Time>
+							<IsShared>false</IsShared>
+						</Transition>
+						<Transition>
+							<StartState Name="Life_Death" ID="{2F19D510-5D2F-4FF4-B3A3-CFFE50087EA4}"/>
+							<EndState Name="Life_Alive" ID="{BAB6328E-E0AA-4576-83AD-D46302D95E61}"/>
+							<Time>3</Time>
+							<IsShared>false</IsShared>
+						</Transition>
+					</TransitionList>
+				</StateGroup>
+				<StateGroup Name="Menu" ID="{EAEF34A8-FAFA-408D-9E73-F071F924C121}">
+					<ChildrenList>
+						<State Name="None" ID="{8A872EDB-8BD2-4C08-AB1C-DC9A3D30F7D7}"/>
+						<State Name="Menu_On" ID="{CDC1FFD9-8685-4C91-8108-97C9E4EF5BF8}"/>
+						<State Name="Menu_Off" ID="{B72EE936-311F-4C2E-BCF7-66A98C35F4DA}"/>
+					</ChildrenList>
+					<TransitionList>
+						<Transition>
+							<StartState Name="Menu_Off" ID="{B72EE936-311F-4C2E-BCF7-66A98C35F4DA}"/>
+							<EndState Name="Menu_On" ID="{CDC1FFD9-8685-4C91-8108-97C9E4EF5BF8}"/>
+							<Time>0.5</Time>
+							<IsShared>false</IsShared>
+						</Transition>
+						<Transition>
+							<StartState Name="Menu_On" ID="{CDC1FFD9-8685-4C91-8108-97C9E4EF5BF8}"/>
+							<EndState Name="Menu_Off" ID="{B72EE936-311F-4C2E-BCF7-66A98C35F4DA}"/>
+							<Time>0.5</Time>
+							<IsShared>false</IsShared>
+						</Transition>
+					</TransitionList>
+				</StateGroup>
+			</ChildrenList>
+		</WorkUnit>
+	</States>
+</WwiseDocument>

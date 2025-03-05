@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="16" SoundBankVersion="150">
+	<RootPaths>
+		<ProjectRoot>../..</ProjectRoot>
+		<SourceFilesRoot>../../.cache/Mac</SourceFilesRoot>
+		<SoundBanksRoot>.</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>.</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Type="User" Language="SFX" Hash="{D326F752-7CA2-0A14-FDB1-63ECE89D0199}">
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+			<Plugins>
+				<AudioDevices>
+					<Plugin Id="2317455096" Name="No_Output" LibName="No Output" LibId="11862023"/>
+					<Plugin Id="3859886410" Name="System" LibName="System" LibId="11403271"/>
+				</AudioDevices>
+			</Plugins>
+			<Busses>
+				<Bus Id="3803692087" Name="Master Audio Bus"/>
+			</Busses>
+		</SoundBank>
+		<SoundBank Id="2494933134" Type="User" Language="SFX" Hash="{6FC57FFA-D465-87E9-2812-82D25BC15F69}">
+			<ShortName>Music_Test_Bank</ShortName>
+			<Path>Music_Test_Bank.bnk</Path>
+			<Media>
+				<File Id="56024691" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>240725_SparksTutorial_D_96bpm_Looped.wav</ShortName>
+					<CachePath>SFX/240725_SparksTutorial_D_96bpm_Looped_FBC78EF0.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="2587102618" Name="Music_Test_Play" DurationType="OneShot" DurationMin="60" DurationMax="60">
+					<MediaRefs>
+						<MediaRef Id="56024691"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{A4C34889-D619-71FC-66C6-00567F92A52D}</FileHash>
+</SoundBanksInfo>

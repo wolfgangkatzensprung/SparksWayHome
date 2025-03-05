@@ -1,0 +1,30 @@
+State Group	ID	Name			Wwise Object Path	Notes
+	2222466688	Life_Status			\Default Work Unit\Life_Status	
+	2607556080	Menu			\Default Work Unit\Menu	
+
+State	ID	Name	State Group			Notes
+	748895195	None	Life_Status			
+	3374215396	Life_Death	Life_Status			
+	4274589453	Life_Alive	Life_Status			
+	188046872	Menu_On	Menu			
+	748895195	None	Menu			
+	3036877654	Menu_Off	Menu			
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	3673881719	Volume_SFX			\Default Work Unit\Volume_SFX	
+	3695994288	Volume_Master			\Default Work Unit\Volume_Master	
+	3891337659	Volume_Music			\Default Work Unit\Volume_Music	
+
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	1502772432	SFX Bus			\Default Work Unit\Master Audio Bus\SFX Bus	
+	3127962312	Music Bus			\Default Work Unit\Master Audio Bus\Music Bus	
+	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+
+Effect plug-ins	ID	Name	Type				Notes
+	21287693	Compressor (Custom)	Wwise Compressor			
+	1048221142	Gain (Custom)	Wwise Gain			
+
+Audio Devices	ID	Name	Type				Notes
+	2317455096	No_Output	No Output			
+	3859886410	System	System			
+

@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2587102618	Music_Test_Play			\Default Work Unit\Music_Test_Play	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	56024691	240725_SparksTutorial_D_96bpm_Looped	Y:\Unity Projects\sparkswayhome\sparkswayhome_WwiseProject\.cache\Mac\SFX\240725_SparksTutorial_D_96bpm_Looped_FBC78EF0.wem		\Interactive Music Hierarchy\Default Work Unit\Music_Test\240725_SparksTutorial_D_96bpm_Looped		11520208
+

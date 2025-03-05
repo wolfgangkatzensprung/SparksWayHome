@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo>
+	<Project Name="sparkswayhome_WwiseProject" GUID="{9A2D28E7-B9D7-4849-8126-FC7CB8CFACE7}" Generator="2023.1.5.8522"/>
+	<CacheRoot>../.cache</CacheRoot>
+	<Platforms>
+		<Platform Name="Mac" GUID="{5CFCF6D7-6073-4E7A-BF2C-E6E7879F5386}" BasePlatform="Mac" BasePlatformGUID="{9C6217D5-DD11-4795-87C1-6CE02853C540}" Path="Mac"/>
+		<Platform Name="Windows" GUID="{6704A5B7-70D2-4D8F-91CD-D7140FAB91F6}" BasePlatform="Windows" BasePlatformGUID="{6E0CB257-C6C8-4C5C-8366-2740DFC441EB}" Path="Windows"/>
+	</Platforms>
+	<Languages>
+		<Language Name="English(US)" Id="684519430" GUID="{EB1FE590-90C5-476C-A9BF-0123F5DDB191}" Default="true" UseAsStandIn="true"/>
+	</Languages>
+	<FileHash>{46D0332A-6D59-2F05-2825-814ED9EEEAE8}</FileHash>
+</ProjectInfo>
